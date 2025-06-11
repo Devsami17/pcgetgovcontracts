@@ -143,6 +143,11 @@
         }
     }
     @media only screen and (min-width:300px) and (max-width:770px){
+        .illustation-img{
+            margin-top: 20px;
+            height:300px !important;
+            width: 100% !important;
+        }
     #btn-next{
         right: 5px !important;
     }
@@ -478,9 +483,9 @@
     .section-23{
        
      position: relative;
-        padding-top: 6rem;
+        padding-top: 3rem;
         padding-right: 8vw;
-        padding-bottom: 6rem;
+        padding-bottom: 3rem;
         padding-left: 8vw;
         margin-top: 0px;
         margin-bottom: 0px;
@@ -602,7 +607,7 @@
             font-family: "Raleway" !important;
             font-weight: 800;
             font-size: 20px !important;
-            color: #ff6138!important;
+            color: #000!important;
             letter-spacing: 0px;
         }
         .learning-box{
@@ -843,7 +848,36 @@
             color: #fff;
           }
           .logo-title{
-            color: #ff6138;
+            color: #000;
             font-size: 30px;
             margin: 0;
           }
+
+
+          .section-24 h3 {
+            font-family: "Raleway" !important;
+            font-weight: 800;
+            font-size: 20px !important;
+            color: #000 !important;
+            letter-spacing: 0px;
+          }
+          
+          .section-24 ul {
+            padding-left: 1.2rem;
+            margin-bottom: 1rem;
+          }
+          
+          .section-24 ul li {
+            margin-bottom: 0.4rem;
+            line-height: 1.5;
+          }
+          
+          .section-24 p {
+            line-height: 1.6;
+            margin-bottom: 1rem;
+          }
+          
+          .content-block {
+            padding: 0 10px;
+          }
+          
